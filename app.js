@@ -13,7 +13,7 @@ app
   )
   .use(express.json())
   .use('/', require('./src/routes'))
-  .use(cors({ origin: 'http://localhost:3000/' }))
+  .use(cors({ origin: '*' }))
 
 mongoose
   .connect(
