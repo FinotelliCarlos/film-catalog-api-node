@@ -17,7 +17,7 @@ app
 
 mongoose
   .connect(
-    `mongodb+srv://${process.env.DB_USER}:${process.env.DB_USER_PASS}@apicluster.ysr4siw.mongodb.net/?retryWrites=true&w=majority`
+    `mongodb+srv://${process.env.DB_USER}:${process.env.DB_USER_PASS}@apicluster.jml6ml5.mongodb.net/?retryWrites=true&w=majority`
   )
   .then(() => {
     console.log('MongoDB is connected!')
