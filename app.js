@@ -12,8 +12,8 @@ app
     })
   )
   .use(express.json())
-  .use('/', require('./src/routes'))
   .use(cors({ origin: '*' }))
+  .use('/', require('./src/routes'))
 
 mongoose
   .connect(
