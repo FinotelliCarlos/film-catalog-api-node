@@ -24,7 +24,6 @@ Está API trás um catálogo de filmes aonde está disponibilizado a qualquer fo
 
 ```
 
-
 #### 📒 Ao fazer a busca o retorno deverá ser como abaixo
 
 
