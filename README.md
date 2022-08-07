@@ -1,15 +1,12 @@
 # 🎥 Node API - Catálogo de Filmes
 
 Está API trás um catálogo de filmes aonde está disponibilizado a qualquer fonte de busca.
-<br>
 
 ### 🔗 Referência da API
 
-<br>
 
 #### 📒 Para buscar todos os items
 
-<br>
 
 ```http
 
@@ -17,11 +14,9 @@ Está API trás um catálogo de filmes aonde está disponibilizado a qualquer fo
   
 ```
 
-<br>
 
 #### 📒 Para buscar somente um item
 
-<br>
 
 ```http
 
@@ -29,11 +24,9 @@ Está API trás um catálogo de filmes aonde está disponibilizado a qualquer fo
 
 ```
 
-<br>
 
 #### 📒 Ao fazer a busca o retorno deverá ser como abaixo
 
-<br>
 
 ```bash
 
@@ -58,11 +51,9 @@ Está API trás um catálogo de filmes aonde está disponibilizado a qualquer fo
 
 ```
 
-<br>
 
 ### ⚙ Para executar na própria maquina
 
-<br>
 
 ```bash
 
