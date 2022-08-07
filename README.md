@@ -60,7 +60,7 @@ Está API trás um catálogo de filmes aonde está disponibilizado a qualquer fo
 
 <br>
 
-### Para executar na própria maquina
+### ⚙ Para executar na própria maquina
 
 <br>
 
@@ -77,19 +77,19 @@ npm install
 
 ```
 
-#### Para iniciar o projeto será necerrario realizar alguns passos
+#### 👟 Para iniciar o projeto será necerrario realizar alguns passos
 
-#### Criar uma conta em **_cloud.mongodb.com_**
+#### 🧾 Criar uma conta em **_cloud.mongodb.com_**
 
 - [MongoDB Atlas](https://cloud.mongodb.com/)
 
-#### Criar uma base de Dados
+#### 🧾 Criar uma base de Dados
 
 - Create > Shared > Create Cluster
 
-### Crie seu usuario e senha que serão os que vão ser utilizados em sua .env
+### 🧾 Crie seu usuario e senha que serão os que vão ser utilizados em sua .env
 
-### No arquivo app.js configure corretamente o link de conecção ao banco de dados
+### 🧾 No arquivo app.js configure corretamente o link de conecção ao banco de dados
 
 - Connect > Connect your application > Copie o link e substitua com as suas propriedades
 
@@ -99,7 +99,7 @@ mongoose.connect(
 )
 ```
 
-#### Criar um arquivo .env com as variaveis solicitadas para conecção com o banco de dados
+#### 🧾 Criar um arquivo .env com as variaveis solicitadas para conecção com o banco de dados
 
 ```
 .env
@@ -109,7 +109,7 @@ DB_USER_PASS="SuaSenhaDeUsuario"
 
 ```
 
-#### Após isto está pronto para iniciar a API
+#### ⚙ Após isto está pronto para iniciar a API
 
 ```bash
 
